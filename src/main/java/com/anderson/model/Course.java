@@ -13,7 +13,6 @@ import lombok.Data;
 @Data
 @Entity
 //@Table(name = "cursos")
-//teste
 public class Course {
     
     @Id
